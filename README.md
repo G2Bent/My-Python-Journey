@@ -28,3 +28,7 @@
 
 - 坚持阅读，坚持学习。（keep reading, keep learning）
 - 多动手，多实践。（more hands-on, more practical)
+
+### 赞赏
+你的支持是我写下去的动力，如果你喜欢我的文章，可以给我点个赞，或者打赏我一杯咖啡。
+![赞赏一下](./res/good-code.png)
